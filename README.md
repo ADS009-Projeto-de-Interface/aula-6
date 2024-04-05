@@ -26,12 +26,12 @@ no mínimo *4 parágrafos* de texto, duas imagens, e **1 arquivo** de qualquer m
 * [ ] As seções devem ter cores diferentes (background), apenas o menu pode ser branco padrão.
 
 ## Entregar no mínimo:
-* [ ] 1 arquivo Index
-* [ ] 4 arquivos .html
-* [ ] 1 arquivo .css
-* [ ] 11 Imagens
-* [ ] 4 áudios ou vídeos
-* [ ] 3 ícones
+* [ ] 1 arquivo ```index```
+* [ ] 4 arquivos ```.html```
+* [ ] 1 arquivo ```.css```
+* [ ] 11 **Imagens**
+* [ ] 4 **áudios ou vídeos**
+* [ ] 3 **ícones**
 
 ### Lembrando que os mesmos devem estar em pastas para facilitar o processo de avaliação.
 * [ ] Caso use mais de um ```CSS``` criar uma pasta de Estilos.
